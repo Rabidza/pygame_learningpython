@@ -4,7 +4,7 @@
 This is my first tutorial attempt at learning pygame
 Was not such a great tutorial to follow. I'll leave this here for now...maybe enhance it a bit later
 
-TODO:
-Smooth out the movement of the snake
-Add sound
-Add enemies
+<b>TODO:</b><br>
+Smooth out the movement of the snake<br>
+Add sound<br>
+Add enemies<br>
