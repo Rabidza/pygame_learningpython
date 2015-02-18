@@ -1,3 +1,7 @@
+import pygame
+import basicSprite
+from helpers import *
+
 class Snake(basicSprite.Sprite):
 
     def __init__(self, centerPoint, image):
